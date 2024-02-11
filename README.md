@@ -16,6 +16,3 @@ npm run dev
 ### 构建ESM
 npm run rollup
 
-### 构建文档
-npm run storybook
-
