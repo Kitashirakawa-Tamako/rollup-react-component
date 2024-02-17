@@ -1,7 +1,6 @@
 {
   "name": "@kitashirakawa_tamako/rollup-react-component",
   "version": "0.1.0",
-  "private": true,
   "main": "es/index.js",
   "files": [
     "es/"
